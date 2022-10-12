@@ -8,14 +8,14 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: #222;
-  background: #f7f5f0;
+  color: rgb(63, 4, 55);
+  background: #329dac;
 }
 /* Link Styles */
 
 a {
   text-decoration: none;
-  color: #999;
+  color: rgb(117, 9, 241);
 }
 a:hover {
   color: #6633ff;
@@ -74,10 +74,10 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(2.5) rotate(360deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #8b9ef1;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -85,8 +85,8 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: #8b9ef1;
+  color: rgb(49, 5, 36);
 }
 .card {
   margin: 30px;
