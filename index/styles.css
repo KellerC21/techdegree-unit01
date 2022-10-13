@@ -150,10 +150,12 @@ a.social {
   background-size: 30px 30px;
   opacity: .4;
   transition: all .5s;
+  color: black
 
 }
 a.github {
   background-image: url(images/github.svg);
+  color: black
 }
 a.social:hover {
   opacity: 1;
