@@ -91,20 +91,6 @@
   .flex{
     padding:20px 20px 20px;
   }
-  .card {
-    margin: 30px;
-    padding: 20px 40px 40px;
-    max-width: 500px;
-    text-align: center;
-    background: rgb(191, 234, 247);
-    border-bottom: 4px solid #ccc;
-    border-radius: 6px;
-    transition: all .5s;
-  }
-  .card:hover {
-    border-color: #ff99ff;
-  }
-
   footer {
     width: 100%;
     min-height: 30px;
