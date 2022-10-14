@@ -145,18 +145,18 @@ footer ul li {
 
 a.social {
   display: inline-block;
-  text-indent: -9999px;
+  text-indent: 40px;
   margin-left: 5px;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   background-size: 30px 30px;
   opacity: .4;
   transition: all .5s;
-  color: black
+  color: rgb(30, 2, 34)
 
 }
 a.github {
-  background-image: url(../images/GitHublogo.png);
+  background-image: url(../images/GitHub_Logo.png) no repeat center;
   color: black
   
 }
