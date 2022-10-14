@@ -101,7 +101,9 @@ header .profile-image:hover {
 .card:hover {
   border-color: #ff99ff;
 }
-
+.ul li{
+  list-style:none;
+}
 ul.skills {
   padding: 0;
   text-align: center;
