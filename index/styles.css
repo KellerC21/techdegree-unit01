@@ -154,8 +154,9 @@ a.social {
 
 }
 a.github {
-  background-image: url(../images/image/GitHublogo.png);
+  background-image: url(../images/GitHublogo.png);
   color: black
+  
 }
 a.social:hover {
   opacity: 1;
