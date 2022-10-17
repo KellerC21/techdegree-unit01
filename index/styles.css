@@ -156,7 +156,8 @@ a.social {
 
 }
 a.github {
-  background-image: url(../images/GitHub_Logo.png) no-repeat center;
+  background-image: url(../images/GitHub_Logo.png) no-repeat;
+  text-align: center;
   color: black
   
 }
@@ -165,6 +166,9 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+.contacts{
+text-align: center;
 }
 
 /* Styles for larger screens */
