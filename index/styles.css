@@ -157,6 +157,7 @@ a.social {
 }
 a.github {
   background-image: url(../images/github.svg) ;
+  background-repeat: none;
   text-align: center;
   color: black
   
